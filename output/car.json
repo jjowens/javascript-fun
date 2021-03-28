@@ -1,0 +1,20 @@
+[
+  {
+    "make": "Ford",
+    "model": "Fiesta",
+    "wheels": 4,
+    "enginesize": 200
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "wheels": 4,
+    "enginesize": 400
+  },
+  {
+    "make": "Ford",
+    "model": "Estate",
+    "wheels": 4,
+    "enginesize": 600
+  }
+]
